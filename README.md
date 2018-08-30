@@ -1,2 +1,2 @@
 # aiwa-SendSignTransaction
-This is a samplpe repository to send signed transaction to AION
+This is a sample repository to send signed transaction to AION
