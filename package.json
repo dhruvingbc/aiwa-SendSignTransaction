@@ -1,0 +1,19 @@
+{
+  "name": "aiwa-SendSignTransaction",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aion-keystore": "github:qoire/aion-keystore#master",
+    "aion-rlp": "0.0.1",
+    "aion-web3": "0.0.3",
+    "request-promise": "^4.2.2",
+    "web3": "^1.0.0-beta.35"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
