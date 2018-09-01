@@ -40,7 +40,7 @@ const transaction = {
   gas: 21000,
   value: 1000000000000000000,
   nonce: tempNonce,
-  timestamp: Date.now()
+  timestamp: Date.now() * 1000
 };
 
 acc.signTransaction(transaction).then(signed => {
