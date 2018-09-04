@@ -1,4 +1,3 @@
-// in node.js
 const Accounts = require("aion-keystore");
 const Web3 = require("aion-web3");
 var rp = require("request-promise");
