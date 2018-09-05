@@ -36,7 +36,7 @@ const transaction = {
   to: "0xa0a6ade7564fd875dd055a87deb2ae34784f2c8bb3146c6a631f592e712092db",
   data: "0x1234567890abcd",
   gasPrice: 10000000000,
-  gas: 220000,
+  gas: 22000,
   value: 1000000000000000000,
   nonce: tempNonce,
   timestamp: Date.now() * 1000
